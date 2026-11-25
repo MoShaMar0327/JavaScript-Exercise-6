@@ -13,6 +13,7 @@ function add(a, b){
 // TODO: Call both functions and store their results in variables
 let greeting = greet("Mogamat Shareef")
 let addition = add(7, 13)
+
 // TODO: Print the results to the console
 console.log(greeting)
 console.log(addition)
